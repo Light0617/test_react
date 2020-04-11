@@ -7,7 +7,7 @@ class Blog extends Component {
   render() {
     return (
       <div className="App" id ="blog">
-        <div className="App-header">
+        <div className="header">
         <h1>Blog</h1>
           <a
             className="App-link"

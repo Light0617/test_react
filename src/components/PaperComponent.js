@@ -7,7 +7,7 @@ class Paper extends Component {
   render() {
     return (
       <div className="App" id ="paper">
-        <div className="App-header">
+        <div className="header">
           <h1>Paper</h1>
         </div>
       </div>

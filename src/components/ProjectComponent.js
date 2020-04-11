@@ -7,7 +7,7 @@ class Project extends Component {
   render() {
     return (
       <div className="App" id ="project">
-        <div className="App-header">
+        <div className="header">
           <h1>Project</h1>
           <a
             className="App-link"

@@ -7,7 +7,8 @@ class Book extends Component {
   render() {
     return (
       <div className="about-style" id ="book">
-        <div className="context-background">
+        {/* <div className="context-background"> */}
+        <div className="header">
         <h1>books</h1>
           <a
             className="App-link"
